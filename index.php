@@ -78,7 +78,7 @@
 	                        	<!-- <img src="img/limpieza.jpg"> -->
 	                        </div>
 	                        <h4>Limpieza integral de inmuebles</h4>
-	                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+	                        <p>Desarrollo de proyectos de limpieza, ofreciendo un servicio personalizado a las necesidades de cada inmueble y giro laboral, con una efectividad garantizada para generar ambiente saludable, estético e inocuo, con productos, procesos, calendarios y normatividades de acuerdo a las normas de salubridad, respaldo de supervisiones, formatos de calidad y herramienta necesaria para brindar el mejor servicio.</p>
 	                        <a href="blog-ici.html" class="blue-button">Read More</a>
 	                    </div>
 	                </div>
@@ -90,7 +90,7 @@
 	                        	<!-- <img src="img/limpieza.jpg"> -->
 	                        </div>
 	                        <h4>Mantenimiento y conservación de edificios</h4>
-	                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+	                        <p>Desarrollamos programas de mantenimiento preventivo para la conservación de inmuebles, equipos o instalaciones mediante visitas programadas o personal de base que garanticen su buen funcionamiento y fiabilidad. El objetivo es evitar o mitigar las consecuencias de los fallos del inmueble, equipos, tuberías, instalaciones eléctricas, hidrosanitarias logrando prevenir las anomalias.</p>
 	                        <a href="blog-ici.html" class="blue-button">Read More</a>
 	                    </div>
 	                </div>
