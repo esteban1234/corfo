@@ -8,10 +8,10 @@
 	<div class="menu">
 		<nav>
 			<ul>
-				<a class="select" href="">INICIO</a>
-				<a class="select" href="">NOSOTROS</a>
-				<a class="select" href="">SERVICIOS</a>
-				<a class="select" href="">CONTACTO</a>
+				<a class="select" id="selector" href="index.php">INICIO</a>
+				<a class="select" href="vistas/nosotros.php">NOSOTROS</a>
+				<a class="select" href="vistas/servicios.php">SERVICIOS</a>
+				<a class="select" href="vistas/contacto.php">CONTACTO</a>
 			</ul>
 		</nav>
 	</div>
@@ -71,7 +71,7 @@
 	<h1 class="text-center" style="color: #FFF;">Aplicaciones</h1>
 	<div class="index-content">
 	    <div class="container">
-	            <a href="blog-ici.html">
+	            <a href="vistas/servicios.php">
 	                <div class="col-lg-4">
 	                    <div class="card">
 	                        <div class="imagen">
@@ -79,11 +79,11 @@
 	                        </div>
 	                        <h4>Limpieza integral de inmuebles</h4>
 	                        <p>Desarrollo de proyectos de limpieza, ofreciendo un servicio personalizado a las necesidades de cada inmueble y giro laboral, con una efectividad garantizada para generar ambiente saludable, estético e inocuo, con productos, procesos, calendarios y normatividades de acuerdo a las normas de salubridad, respaldo de supervisiones, formatos de calidad y herramienta necesaria para brindar el mejor servicio.</p>
-	                        <a href="blog-ici.html" class="blue-button">Read More</a>
+	                        <a href="vistas/servicios.php" class="blue-button"><i class="far fa-plus-square"></i> SERVICIOS</a>
 	                    </div>
 	                </div>
 	            </a>
-	            <a href="blog-ici.html">
+	            <a href="vistas/servicios.php">
 	                <div class="col-lg-4">
 	                    <div class="card">
 	                        <div class="imagen2">
@@ -91,11 +91,11 @@
 	                        </div>
 	                        <h4>Mantenimiento y conservación de edificios</h4>
 	                        <p>Desarrollamos programas de mantenimiento preventivo para la conservación de inmuebles, equipos o instalaciones mediante visitas programadas o personal de base que garanticen su buen funcionamiento y fiabilidad. El objetivo es evitar o mitigar las consecuencias de los fallos del inmueble, equipos, tuberías, instalaciones eléctricas, hidrosanitarias logrando prevenir las anomalias.</p>
-	                        <a href="blog-ici.html" class="blue-button">Read More</a>
+	                        <a href="vistas/servicios.php" class="blue-button"><i class="far fa-plus-square"></i> SERVICIOS</a>
 	                    </div>
 	                </div>
 	            </a>
-	            <a href="blog-ici.html">
+	            <a href="vistas/servicios.php">
 	                <div class="col-lg-4">
 	                    <div class="card">
 	                        <div class="imagen3">
@@ -103,13 +103,52 @@
 	                        </div>
 	                        <h4>Control de plagas</h4>
 	                        <p>Desarrollamos programas para el control integral de plagas, a través del análisis del inmueble, condiciones geográficas y necesidades del cliente, identificando y controlando la plaga y las causas que la originan.</p>
-	                        <a href="blog-ici.html" class="blue-button">Read More</a>
+	                        <a href="vistas/servicios.php" class="blue-button"><i class="far fa-plus-square"></i> SERVICIOS</a>
 	                    </div>
 	                </div>
 	            </a>
 	
 	    </div>
 	</div>
+	<div style="text-align: center;">
+      <a class="btn btn-default btn-outline btn-lg" href="vistas/contacto.php"><i class="far fa-hand-point-right"></i> ¡CONTACTANOS!</a>
+  </div>
+</section>
+
+
+
+<section style="background-color: #fff; overflow: hidden; padding: 5% 0%;">
+	<h1 class="text-center" style="color: ##0093D4;">CORFO, PROTEGE SU HOGAR Y EMPRESA</h1> <br>
+	<p class="text-center" style="width: 65%; margin: 0 auto;">Nuestras soluciones de videovigilancia le permiten crear un entorno más confiable y seguro, esto gracias a la supervisión continua a través de un circuito de cámaras de seguridad colocadas en puntos estratégicos dentro de sus instalaciones.</p> <br><br>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <div class="icono">
+            	<i class="fas fa-file-video fa-7x"></i>
+            </div>
+            <h2 class="text-center">Registro confiable</h2>
+            <p>Llevar un archivo de grabaciones puede ayudarle a resolver los casos de incidentes o crímenes con las autoridades.</p>
+          </div>
+          <div class="col-md-4">
+            <div class="icono">
+            	<i class="fas fa-eye fa-7x"></i>
+            </div>
+            <h2 class="text-center">Monitoreo continuo</h2>
+            <p>Obtenga un monitoreo en tiempo real de las áreas críticas de su empresa u hogar.</p>
+          </div>
+          <div class="col-md-4">
+            <div class="icono">
+            	<i class="fas fa-video fa-7x"></i>
+            </div>
+            <h2 class="text-center">Prevención de crímenes</h2>
+            <p>Un sistema de videovigilancia activo no puede impedir un robo, pero hará pensar dos veces a los criminales antes de realizarlo, lo que reduce considerablemente el riesgo.</p>
+          </div>
+        </div>
+      </div>
+	
+	<div style="text-align: center; margin-top: 2%;">
+      <a class="btn btn-primary btn-outline btn-lg" href="vistas/servicios.php"><i class="far fa-plus-square"></i> ¡SERVICIOS!</a>
+  </div>
 </section>
 
 
