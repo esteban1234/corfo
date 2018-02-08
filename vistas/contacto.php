@@ -69,10 +69,24 @@
 					<b>Horario:</b> Lunes a Viernes de 9 am a 6 pm
 				</p> <br>
 				
-				<button type="submit" class="btn btn-primary">VER UBICACION</button>
+				<button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#miventana">VER UBICACION</button>
 			</div>
 		</div>
 	</section>
+
+	<div class="modal fade" id="miventana" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					<h4>VIGILANCIA, MANTENIMIENTO Y LIMPIEZA ESPECIALIZADA CORFO SA DE CV</h4>
+				</div>
+				<div class="modal-body">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.95410513882!2d-89.63659818572283!3d21.034522292958854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f56742fe2e0098b%3A0xc63b4e8da4c4122b!2sCalle+5+302%2C+Xcumpich%2C+97204+M%C3%A9rida%2C+Yuc.!5e0!3m2!1ses!2smx!4v1518121043064" width="575" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+				</div>
+			</div>
+		</div>
+	</div>
 
 
 <?php include 'pie.php' ?>
@@ -80,5 +94,6 @@
 <script src="../js/jquery.js"></script>
 <script src="../js/menu.js"></script>
 <script src="../js/modal.js"></script>
+<script src="../js/bootstrap.js"></script>
 </body>
 </html>
