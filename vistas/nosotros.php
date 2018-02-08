@@ -54,6 +54,53 @@
       </div>
     </div>
 
+    <div class="section" style="background-color: #fff; overflow: hidden; padding: 5% 0%;">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 class="text-center">VALORES</h1>
+            <!-- <p class="text-center">We are a group of skilled individuals.</p> -->
+          </div>
+        </div> <br>
+        <div class="row">
+          <div class="col-md-2 text-right">
+            <i class="far fa-check-circle fa-7x"></i>
+          </div>
+          <div class="col-md-4">
+            <h3 class="text-left">Calidad</h3>
+            <p class="text-left">Los servicios que ofrecemos son de excelencia. Son muy superiores que los de la competencia.</p>
+          </div>
+          <div class="col-md-2 text-right">
+            <i class="fas fa-chart-line fa-7x"></i>
+          </div>
+          <div class="col-md-4">
+            <h3 class="text-left">Efectividad</h3>
+            <p class="text-left">Todos los servicios que ofrecemos son ejecutados de manera precisa y adecuada para ser eficientes en el desempeño de nuestro trabajo.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-2 text-right">
+            <i class="fas fa-american-sign-language-interpreting fa-7x"></i>
+          </div>
+          <div class="col-md-4">
+            <h3 class="text-left">Ética</h3>
+            <p class="text-left">Es la exigencia de forma individual y colectiva. Es el reflejo de honestidad, lealtad y justicia dentro y fuera de la empresa.</p>
+          </div>
+          <div class="col-md-2 text-right">
+            <i class="far fa-handshake fa-7x"></i>
+          </div>
+          <div class="col-md-4 text-center">
+            <h3 class="text-left">Confianza</h3>
+            <p class="text-left">Cultivamos en cada uno de nuestros clientes expectativas que generan credibilidad recíproca.</p>
+          </div>
+        </div>
+      </div>
+
+      <div style="text-align: center; margin-top: 2%;">
+      <a class="btn btn-primary btn-outline btn-lg" href="vistas/contacto.php"><i class="far fa-hand-point-right"></i> ¡CONTACTANOS!</a>
+  </div>
+    </div>
+
 
 	<?php include 'pie.php' ?>
 
