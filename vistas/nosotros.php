@@ -29,7 +29,7 @@
 		
 		<div class="pull-right" style="text-align: center; margin-top: 1.5%;
 		margin-right: 7%;">
-		   <a class="btn btn-primary btn-outline btn-lg" href="vistas/contacto.php"><i class="far fa-plus-square"></i> ¡CONTACTANOS!</a>
+		   <a class="btn btn-primary btn-outline btn-lg" href="contacto.php"><i class="far fa-plus-square"></i> ¡CONTACTANOS!</a>
 		</div>
 	</div>
 </section>
@@ -97,7 +97,7 @@
       </div>
 
       <div style="text-align: center; margin-top: 2%;">
-      <a class="btn btn-primary btn-outline btn-lg" href="vistas/contacto.php"><i class="far fa-hand-point-right"></i> ¡CONTACTANOS!</a>
+      <a class="btn btn-primary btn-outline btn-lg" href="contacto.php"><i class="far fa-hand-point-right"></i> ¡CONTACTANOS!</a>
   </div>
     </div>
 
