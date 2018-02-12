@@ -36,7 +36,7 @@ $mail->Body = "
                 <title>CORFO</title>
                 </head>
                 <body  style='border:.5px solid rgba('0,0,0,0.8');background:#fff'>                
-                <h1 style='text-align:center;  font-weight: bold'>PUBLIM</h1>
+                <h1 style='text-align:center;  font-weight: bold'>CORFO</h1>
                 <b>Telefono: </b>$telefono<br/>
                 <div style='color:#747474; padding:20px 10px; text-align: justify'>$comentario <div><br/>
 
