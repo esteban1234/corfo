@@ -28,12 +28,12 @@ $mail->addAddress("ballina.santiago@gmail.com");
 
 $mail->isHTML(true);
 
-$mail->Subject = "Cotización PUBLIM";
+$mail->Subject = "Cotización Corfo";
 $mail->Body = "
               <!DOCTYPE html>
                 <html>
                 <head>
-                <title>PUBLIM</title>
+                <title>CORFO</title>
                 </head>
                 <body  style='border:.5px solid rgba('0,0,0,0.8');background:#fff'>                
                 <h1 style='text-align:center;  font-weight: bold'>PUBLIM</h1>
