@@ -6,6 +6,11 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+.op-menu{
+  display: none;
+}
+
 .logo{
   width: 7%;
   /*margin-left: 5%;*/

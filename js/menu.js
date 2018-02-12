@@ -1,47 +1,18 @@
-$(document).ready(main);
+$(function() {
+    var contador = 1;
+    var pull = $('.op-menu');
+    menu = $('nav');
 
-var contador = 1;
+    $(pull).on('click', function(e) {
+        e.preventDefault();
+        if (contador == 1) {
+           menu.slideToggle(1000);
+            contador = 0;
+        } else {
+            menu.slideToggle(1000);
+            // abrir.slideToggle(100);
+            contador = 1;
+        }
+    });
 
-function main(){
-	$('#header__icon').click(function(){
-
-		if(contador == 1){
-			$('nav').animate({
-				marginLeft: '0px',
-				height:'100%'
-				// display: 'block'
-			},500);
-
-			$('#close').animate({
-				marginLeft: '0px',
-			},500);
-
-
-			$('#open').animate({
-				marginLeft: '-300px',
-			},500);
-			// $('.menu .close').removeClass('none');
-			// $('.menu .close').addClass('inline-block');
-			contador = 0;
-		} else {
-			contador = 1;
-			$('nav').animate({
-				marginLeft: '-300%',
-				height:'0px'
-				// display: 'none'
-			},500);
-
-			$('#close').animate({
-				marginLeft: '-300px',
-			},500);
-
-
-			$('#open').animate({
-				marginLeft: '0px',
-			},500);
-			// $('.banner').css('marginTop:0px');
-		}
-
-	});
-
-};
+});

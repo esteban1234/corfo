@@ -1,0 +1,657 @@
+@media screen and (max-width: 480px){
+	.logo{
+		width: 15%;
+		margin-left: 40px;
+		float: left;
+	}
+
+	.op-menu{
+		margin-right: 40px;
+		margin-top: 20px;
+		float: right;
+		display: block;
+		cursor: pointer;
+	}
+
+	.i-menu{
+		font-size: 25px !important; 
+	}
+
+
+	nav{
+		display: none;
+	}
+
+	nav ul a{
+		display: block;
+	}
+
+	.banner, .fondo, .banner2, .fondo2, .banner3, .fondo3, .banner4, .fondo4{
+		height: 100%;
+	}
+
+	.fondo p, .fondo3 p, .fondo4 p{
+		font-size: 25px !important;
+		/*border: 2px solid blue;*/
+	}
+
+	.banner2 .fondo2 p, .banner3 .fondo3 p, .banner4 .fondo4 p{
+		font-size: 25px !important;
+		text-align: center;
+		width: 100%;
+
+		margin-left: 0px !important;
+	}
+
+	.fondo2, .fondo3, .fondo4{
+		text-align: center;
+	}
+
+	.fa-users, .fa-briefcase, .fa-phone-volume{
+		display: none !important;
+	}
+	
+
+
+	.tit-ans, .tit-corfo{
+		/*border: 2px solid red;*/
+		margin: 0px;
+		font-size: 20px;
+	}
+
+	.txt-ans{
+		font-weight: bold;
+	}
+
+	.img-sp img{
+		width: 40%;
+		float: none !important;
+		margin: auto;
+	}
+
+	.tit-smls, .tit-dmd, .tit-rmp{
+		text-align: center;
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.txt-smls, .txt-dmd, .txt-rmp{
+		text-align: justify;
+	}
+
+	.sec-aplicacion{
+		padding: 0px !important;
+	}
+
+	.index-content{
+		padding: 0px;
+	}
+
+	.btn-conta{
+		margin-bottom: 20px;
+	}
+
+	.tit-corfo{
+		padding: 0px 5px;
+	}
+
+	.txt-corfo{
+		text-align: justify;
+		width: 90% !important;
+	}
+
+	.textpie{
+		font-size: 18px !important;
+		text-align: center;
+		padding: 0px 5px;
+	}
+
+	.textpie2{
+		font-size: 16px !important;
+		text-align: center;
+	}
+
+	.texto{
+		text-align: justify;
+		width: 90%;
+		font-size: 16px;
+	}
+
+	.btn-cont-nos{
+		width: 100%;
+		float: none !important;
+	}
+
+	.h2-npv{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.tit-mv{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.txt-nmv{
+		text-align: justify;
+	}
+	
+	.tit-val{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.icon-i{
+		text-align: center !important;
+		font-size: 10px;
+	}
+
+	.tit-ceec{
+		text-align: center;
+	}
+
+	.txt-ceec{
+		text-align: justify;
+	}
+
+
+
+	.texts{
+		text-align: justify;
+		width: 90%;
+		font-size: 16px;
+	}
+
+
+	.cont-lml{
+		/*border: 2px solid red;*/
+		margin-bottom: 10px;
+	}
+
+	.tit-lml{
+		font-size: 20px;
+		font-weight: bold;
+	}
+	
+
+	.puntos{
+		text-align: center;
+	}
+	
+
+	.tit-spc{
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+	.lu{
+		display: none;
+	}
+
+	.subtit-sss{
+		text-align: center;
+		font-size: 18px;
+	}
+
+	.tit{
+		text-align: justify;
+		font-size: 16px;
+	}
+
+	.dark-grey{
+		text-align: center;
+		font-size: 20px;
+		font-weight: bold;
+	}
+	
+
+	iframe{
+		width: 100%;
+	}
+
+	footer{
+		height: 100%;
+	}
+
+
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+		.logo{
+		width: 15%;
+		margin-left: 40px;
+		float: left;
+	}
+
+	.op-menu{
+		margin-right: 40px;
+		margin-top: 20px;
+		float: right;
+		display: block;
+		cursor: pointer;
+	}
+
+	.i-menu{
+		font-size: 25px !important; 
+	}
+
+
+	nav{
+		display: none;
+	}
+
+	nav ul a{
+		display: block;
+	}
+
+	.banner, .fondo, .banner2, .fondo2, .banner3, .fondo3, .banner4, .fondo4{
+		height: 100%;
+	}
+
+	.fondo p, .fondo3 p, .fondo4 p{
+		font-size: 25px !important;
+		/*border: 2px solid blue;*/
+	}
+
+	.banner2 .fondo2 p, .banner3 .fondo3 p, .banner4 .fondo4 p{
+		font-size: 25px !important;
+		text-align: center;
+		width: 100%;
+
+		margin-left: 0px !important;
+	}
+
+	.fondo2, .fondo3, .fondo4{
+		text-align: center;
+	}
+
+	.fa-users, .fa-briefcase, .fa-phone-volume{
+		display: none !important;
+	}
+	
+
+
+	.tit-ans, .tit-corfo{
+		/*border: 2px solid red;*/
+		margin: 0px;
+		font-size: 20px;
+	}
+
+	.txt-ans{
+		font-weight: bold;
+	}
+
+	.img-sp img{
+		width: 20%;
+		float: none !important;
+		margin: auto;
+	}
+
+	.tit-smls, .tit-dmd, .tit-rmp{
+		text-align: center;
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.txt-smls, .txt-dmd, .txt-rmp{
+		text-align: justify;
+	}
+
+	.sec-aplicacion{
+		padding: 0px !important;
+	}
+
+	.index-content{
+		padding: 0px;
+	}
+
+	.btn-conta{
+		margin-bottom: 20px;
+	}
+
+	.tit-corfo{
+		padding: 0px 5px;
+	}
+
+	.txt-corfo{
+		text-align: justify;
+		width: 90% !important;
+	}
+
+	.textpie{
+		font-size: 18px !important;
+		text-align: center;
+		padding: 0px 5px;
+	}
+
+	.textpie2{
+		font-size: 16px !important;
+		text-align: center;
+	}
+
+	.texto{
+		text-align: justify;
+		width: 90%;
+		font-size: 16px;
+	}
+
+	.btn-cont-nos{
+		width: 100%;
+		float: none !important;
+	}
+
+	.h2-npv{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.tit-mv{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.txt-nmv{
+		text-align: justify;
+	}
+	
+	.tit-val{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.icon-i{
+		text-align: center !important;
+		font-size: 10px;
+	}
+
+	.tit-ceec{
+		text-align: center;
+	}
+
+	.txt-ceec{
+		text-align: justify;
+	}
+
+
+
+	.texts{
+		text-align: justify;
+		width: 90%;
+		font-size: 16px;
+	}
+
+
+	.cont-lml{
+		/*border: 2px solid red;*/
+		margin-bottom: 10px;
+	}
+
+	.tit-lml{
+		font-size: 20px;
+		font-weight: bold;
+	}
+	
+
+	.puntos{
+		text-align: center;
+	}
+	
+
+	.tit-spc{
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+	.lu{
+		display: none;
+	}
+
+	.subtit-sss{
+		text-align: center;
+		font-size: 18px;
+	}
+
+	.tit{
+		text-align: justify;
+		font-size: 16px;
+	}
+
+	.dark-grey{
+		text-align: center;
+		font-size: 20px;
+		font-weight: bold;
+	}
+	
+
+	iframe{
+		width: 100%;
+	}
+
+	footer{
+		height: 100%;
+	}
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+		.logo{
+		width: 15%;
+		margin-left: 40px;
+		float: left;
+	}
+
+	.op-menu{
+		margin-right: 40px;
+		margin-top: 20px;
+		float: right;
+		display: block;
+		cursor: pointer;
+	}
+
+	.i-menu{
+		font-size: 25px !important; 
+	}
+
+
+	nav{
+		display: none;
+	}
+
+	nav ul a{
+		display: block;
+	}
+
+	.banner, .fondo, .banner2, .fondo2, .banner3, .fondo3, .banner4, .fondo4{
+		height: 100%;
+	}
+
+	.fondo p, .fondo3 p, .fondo4 p{
+		font-size: 25px !important;
+		/*border: 2px solid blue;*/
+	}
+
+	.banner2 .fondo2 p, .banner3 .fondo3 p, .banner4 .fondo4 p{
+		font-size: 25px !important;
+		text-align: center;
+		width: 100%;
+
+		margin-left: 0px !important;
+	}
+
+	.fondo2, .fondo3, .fondo4{
+		text-align: center;
+	}
+
+	.fa-users, .fa-briefcase, .fa-phone-volume{
+		display: none !important;
+	}
+	
+
+
+	.tit-ans, .tit-corfo{
+		/*border: 2px solid red;*/
+		margin: 0px;
+		font-size: 20px;
+	}
+
+	.txt-ans{
+		font-weight: bold;
+	}
+
+	.img-sp img{
+		width: 20%;
+		float: none !important;
+		margin: auto;
+	}
+
+	.tit-smls, .tit-dmd, .tit-rmp{
+		text-align: center;
+		font-size: 20px;
+		font-weight: bold;
+	}
+
+	.txt-smls, .txt-dmd, .txt-rmp{
+		text-align: justify;
+	}
+
+	.sec-aplicacion{
+		padding: 0px !important;
+	}
+
+	.index-content{
+		padding: 0px;
+	}
+
+	.btn-conta{
+		margin-bottom: 20px;
+	}
+
+	.tit-corfo{
+		padding: 0px 5px;
+	}
+
+	.txt-corfo{
+		text-align: justify;
+		width: 90% !important;
+	}
+
+	.textpie{
+		font-size: 18px !important;
+		text-align: center;
+		padding: 0px 5px;
+	}
+
+	.textpie2{
+		font-size: 16px !important;
+		text-align: center;
+	}
+
+	.texto{
+		text-align: justify;
+		width: 90%;
+		font-size: 16px;
+	}
+
+	.btn-cont-nos{
+		width: 100%;
+		float: none !important;
+	}
+
+	.h2-npv{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.tit-mv{
+		text-align: center;
+		font-size: 20px;
+	}
+
+	.txt-nmv{
+		text-align: justify;
+	}
+	
+	.tit-val{
+		font-size: 25px;
+		font-weight: bold;
+	}
+
+	.icon-i{
+		text-align: center !important;
+		font-size: 10px;
+	}
+
+	.tit-ceec{
+		text-align: center;
+	}
+
+	.txt-ceec{
+		text-align: justify;
+	}
+
+
+
+	.texts{
+		text-align: justify;
+		width: 90%;
+		font-size: 16px;
+	}
+
+
+	.cont-lml{
+		/*border: 2px solid red;*/
+		margin-bottom: 10px;
+	}
+
+	.tit-lml{
+		font-size: 20px;
+		font-weight: bold;
+	}
+	
+
+	.puntos{
+		text-align: center;
+	}
+	
+
+	.tit-spc{
+		font-size: 22px;
+		font-weight: bold;
+	}
+
+	.lu{
+		display: none;
+	}
+
+	.subtit-sss{
+		text-align: center;
+		font-size: 18px;
+	}
+
+	.tit{
+		text-align: justify;
+		font-size: 16px;
+	}
+
+	.dark-grey{
+		text-align: center;
+		font-size: 20px;
+		font-weight: bold;
+	}
+	
+
+	iframe{
+		width: 100%;
+	}
+
+	footer{
+		height: 100%;
+	}
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

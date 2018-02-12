@@ -5,6 +5,10 @@
 		<img src="../img/corfo.png" alt="Corfo" class="img-responsive">
 	</figure>
 
+  <div class="op-menu">
+    <i class="fa fa-bars fa-1x i-menu" aria-hidden="true"></i>
+  </div>
+
 	<div class="menu">
 		<nav>
 			<ul>
@@ -30,11 +34,11 @@
 	    Los servicios integrados que ofrecemos son:</p>
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 cont-lml">
             <div class="imagens">
 
             </div>
-            <h2 class="text-center">Limpieza Y Mantenimiento</h2>
+            <h2 class="text-center tit-lml">Limpieza Y Mantenimiento</h2>
             <p class="puntos">
                <i class="far fa-hand-point-right"></i> Áreas de trabajo <br>
                <i class="far fa-hand-point-right"></i> Áreas públicas <br>
@@ -47,11 +51,11 @@
                <i class="far fa-hand-point-right"></i> Artículos de lujo <br>
                <i class="far fa-hand-point-right"></i> Ventanales</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 cont-lml">
             <div class="imagens2">
 
             </div>
-            <h2 class="text-center">Mantenimiento General</h2>
+            <h2 class="text-center tit-lml">Mantenimiento General</h2>
             <p class="puntos">
             	<i class="far fa-hand-point-right"></i> Rebrillantado pisos de mármol <br>
 				<i class="far fa-hand-point-right"></i> Pulido de piso <br>
@@ -60,11 +64,11 @@
 				<i class="far fa-hand-point-right"></i> Saneamiento <br>
 				<i class="far fa-hand-point-right"></i> Lavado en seco</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 cont-lml">
             <div class="imagens3">
 
             </div>
-            <h2 class="text-center">Lavado Y Renovación</h2>
+            <h2 class="text-center tit-lml">Lavado Y Renovación</h2>
             <p class="puntos">
             	<i class="far fa-hand-point-right"></i> Muebles <br>
 				<i class="far fa-hand-point-right"></i> Alfombras <br>
@@ -83,28 +87,28 @@
     <section style="background-color: #0093D4; overflow: hidden; padding: 5% 0%;">
 	
       <div class="container">
-      	<h1 class="text-center" style="color: #fff;">Servicios de protección y custodia mediante el monitoreo de sistemas de seguridad</h1> <br>
+      	<h1 class="text-center tit-spc" style="color: #fff;">Servicios de protección y custodia mediante el monitoreo de sistemas de seguridad</h1> <br>
 	<p class="text-center lu" style="width: 65%; margin: 0 auto; color: #fff;">SOLUCIONES QUE TENEMOS PARA USTED</p> <br><br>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
             <div class="iconos">
             	<i class="far fa-hospital fa-7x"></i>
             </div>
-            <h3 class="text-center" style="color: #fff;">SEGURIDAD COMERCIAL</h3>
+            <h3 class="text-center subtit-sss" style="color: #fff;">SEGURIDAD COMERCIAL</h3>
             <!-- <p>Llevar un archivo de grabaciones puede ayudarle a resolver los casos de incidentes o crímenes con las autoridades.</p> -->
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
             <div class="iconos">
             	<i class="fas fa-home fa-7x"></i>
             </div>
-            <h3 class="text-center" style="color: #fff;">SEGURIDAD RESIDENCIAL</h3>
+            <h3 class="text-center subtit-sss" style="color: #fff;">SEGURIDAD RESIDENCIAL</h3>
             <!-- <p>Obtenga un monitoreo en tiempo real de las áreas críticas de su empresa u hogar.</p> -->
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4">
             <div class="iconos">
             	<i class="far fa-building fa-7x"></i>
             </div>
-            <h3 class="text-center" style="color: #fff;">SEGURIDAD PARA CORPORATIVOS</h3>
+            <h3 class="text-center subtit-sss" style="color: #fff;">SEGURIDAD PARA CORPORATIVOS</h3>
             <!-- <p>Un sistema de videovigilancia activo no puede impedir un robo, pero hará pensar dos veces a los criminales antes de realizarlo, lo que reduce considerablemente el riesgo.</p> -->
           </div>
         </div>

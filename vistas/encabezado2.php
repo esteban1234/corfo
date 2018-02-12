@@ -14,6 +14,7 @@
   	<link rel="stylesheet" href="../css/iconos.min.css">
 		<link rel="stylesheet" href="../css/estilos.css">
 		<link rel="stylesheet" href="../css/responsive.css">
+	<script src="../js/general.js"></script>
 	<link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans|Oswald|Roboto|Roboto+Condensed" rel="stylesheet">
 	<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 </head>

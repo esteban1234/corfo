@@ -5,6 +5,10 @@
 	<figure class="logo">
 		<img src="../img/corfo.png" alt="Corfo" class="img-responsive">
 	</figure>
+	
+	<div class="op-menu">
+    <i class="fa fa-bars fa-1x i-menu" aria-hidden="true"></i>
+  </div>
 
 	<div class="menu">
 		<nav>
@@ -30,27 +34,32 @@
 			<div class="col-md-6">
 				<h3 class="dark-grey">Formulario de contacto</h3>
 				
-				<div class="form-group col-lg-12">
+				<form onSubmit="return false">
+					<div class="form-group col-lg-12">
 					<label>Nombre completo</label>
-					<input type="" name="" class="form-control" id="" value="">
+					<input type="text" id="txtNOMBRE" name="er" class="form-control">
 				</div>
 				
 				<div class="form-group col-lg-6">
 					<label>Teléfono</label>
-					<input type="password" name="" class="form-control" id="" value="">
+					<input type="text" class="form-control" id="txtTELEFONO" onkeypress="return event.charCode >= 48 && event.charCode <= 57" maxlength="10" placeholder="Teléfono" required="">
 				</div>
 				
 				<div class="form-group col-lg-6">
 					<label>Correo</label>
-					<input type="email" name="" class="form-control" id="" value="">
+					<input type="email" id="txtCORREO" name="re" class="form-control">
 				</div>
 								
 				<div class="form-group col-lg-12">
 					<label>Comentario</label>
-					<textarea  class="form-control" name="comentario" placeholder="Escribenos tu mensaje" required/></textarea>
+					<textarea  class="form-control" id="txtCOMENTARIO" name="comentario"  placeholder="Escribenos tu mensaje" required/></textarea>
 				</div>
 				
-							
+				
+			<button class="btn btn-default btn-send" onclick="sendCORREO()"> <span class="glyphicon fa fa-send"></span> ENVIAR </button><br><br>
+
+			<div id="_AJAX_PRE_"></div><br>
+				</form>
 			
 			</div>
 		
@@ -91,6 +100,7 @@
 
 <?php include 'pie.php' ?>
 
+<script src="../js/sendCORREO.js"></script>
 <script src="../js/jquery.js"></script>
 <script src="../js/menu.js"></script>
 <script src="../js/modal.js"></script>
